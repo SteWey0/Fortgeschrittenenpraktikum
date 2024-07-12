@@ -9,10 +9,9 @@ figure.figsize: 8., 6.
 figure.autolayout: true
 
 # Use LaTeX fonts
-font.family: serif
-font.serif: CMU Serif
+font.family: NewComputerModern10
 font.size: 20
-#text.usetex: true # This option renders text nicer and formulas in latexs math env instead of mpls, but takes a long time. for now dont use it, and call usetex=True whenever needed
+text.usetex: true # This option renders text nicer and formulas in latexs math env instead of mpls, but takes a long time. Uncomment for final version of plots
 
 # Backend options (42: use TrueType fonts)
 pdf.fonttype: 42
@@ -33,7 +32,7 @@ legend.scatterpoints: 1
 grid.linewidth: 0.8
 lines.linewidth: 1.6
 patch.linewidth: 1.6
-lines.markersize: 5.6
+lines.markersize: 6.2
 lines.markeredgewidth: 0
 
 xtick.major.width: 0.8
