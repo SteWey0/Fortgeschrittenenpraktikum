@@ -5,13 +5,13 @@
 # Modified by Stephen Weybrecht
 
 # Set a 16/9 aspect ratio with automatic layout.
-figure.figsize: 5.,2.81 #16/9 and fits well to page width
+figure.figsize: 5.,3.75 #16/9 and fits well to page width
 figure.autolayout: true
 
 # Use LaTeX fonts
 font.family: NewComputerModern10
 font.size: 10
-text.usetex: true 
+# text.usetex: true 
 
 # Backend options (42: use TrueType fonts)
 pdf.fonttype: 42

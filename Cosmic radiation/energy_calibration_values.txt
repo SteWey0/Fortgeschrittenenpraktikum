@@ -1,0 +1,9 @@
+# Energy calibration values for PMT A-D. 
+# ADC channel -> Energy [keV] conversion: E = slope * ADC + yintersept
+# Rows correspond to PMT A-D
+# 
+# slope 				 y_intersept
+9.188116160972228386e+00 -1.699867249247351765e+03
+1.084946223761073547e+01 -7.455593547002555397e+02
+1.094596442762218658e+01 -1.188547273481272214e+03
+1.852627522998826493e+01 -2.864106134568888592e+03
