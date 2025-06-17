@@ -1,6 +1,6 @@
-# Time calibration values for PMT A-D. 
+# Time calibration values for PMT-A-D. 
 # ADC channel -> Time [ns] conversion: t = slope * ADC + yintersept
-# Rows correspond to PMT A-D
+# Rows correspond to PMT-A-D
 # 
 # slope 				 y_intersept
 -4.716802535551459924e-02 4.524095546046916638e+01
